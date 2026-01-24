@@ -1,0 +1,7 @@
+#JUPTER
+.ipynb_checkpoints/
+#PYTHON
+__pycache__/
+*.pyc
+#macOS
+.DS_Store
